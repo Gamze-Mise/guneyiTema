@@ -61,13 +61,13 @@
     </div>
 </header><!-- End Header -->
 <style>
-    img-careousel-cls {
-        width: 200px!important;
-        height: 200px !important;
+    .img-gallery-cls {
+        height: 234px;
+        width: 400px;
         object-fit: cover;
     }
     .ml400{
-        margin-left: 400px!important;
+        margin-left: 350px!important;
     }
     .ml100{
         margin-left: 100px!important;
@@ -76,7 +76,7 @@
         margin-left: 20px!important;
     }
     .pl50{
-       padding-left: 50px!important;
+       padding-left: 30px!important;
     }
 </style>
 <!-- ======= Hero Section ======= -->
@@ -493,7 +493,7 @@ $floodP=[
                 <!--Flood Project Begin-->
                 <div   onclick="FullScreenImg('1','flood-project')" class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/1.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/flood-project/1.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto"  style="padding-left: 10px;">Big trees debris shows Power of Tunca river during flooding / Edirne Northwest
                                 Turkey</p>
@@ -502,7 +502,7 @@ $floodP=[
                 </div>
                 <div   onclick="FullScreenImg('2','flood-project')" class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/2.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/flood-project/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;" >General View of Tunca river which is sometimes so close to villages</p>
                         </div>
@@ -510,7 +510,7 @@ $floodP=[
                 </div>
                 <div   onclick="FullScreenImg('3','flood-project')"  class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/3.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/flood-project/3.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Interviewing with local people.</p>
                         </div>
@@ -518,7 +518,7 @@ $floodP=[
                 </div>
                 <div   onclick="FullScreenImg('4','flood-project')"  class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/4.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/flood-project/4.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">View after flood</p>
                         </div>
@@ -528,7 +528,7 @@ $floodP=[
                 <!--Excvation Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/1.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/1.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -537,7 +537,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/2.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -546,7 +546,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/3.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/3.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -555,7 +555,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/4.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/4.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -564,7 +564,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/5.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/5.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -573,7 +573,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/6.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/6.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -582,7 +582,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/7.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/excavation/7.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -592,7 +592,7 @@ $floodP=[
                 <!--Robert Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/1.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/robert/1.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Robert College</p>
                         </div>
@@ -600,7 +600,7 @@ $floodP=[
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/2.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/robert/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Robert College</p>
                         </div>
@@ -608,7 +608,7 @@ $floodP=[
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/3.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/robert/3.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Robert College</p>
                         </div>
@@ -616,7 +616,7 @@ $floodP=[
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/4.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/robert/4.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Robert College</p>
                         </div>
@@ -624,7 +624,7 @@ $floodP=[
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/5.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/robert/5.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Robert College</p>
                         </div>
@@ -634,7 +634,7 @@ $floodP=[
                 <!--Coastal Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
                     <div class="portfolio-wrap">
-                        <img style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1.jpeg" class="img-fluid" alt="">
+                        <img style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
                         </div>
@@ -642,7 +642,7 @@ $floodP=[
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
                     <div class="portfolio-wrap">
-                        <img  style=" height: 234px; width: 400px;  object-fit: cover;"  src="assets/img/coastal/2.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/coastal/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
                         </div>
@@ -650,7 +650,7 @@ $floodP=[
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
                     <div class="portfolio-wrap">
-                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/coastal/3.jpeg" class="img-fluid" alt="">
+                        <img    src="assets/img/coastal/3.jpeg" class="img-fluid img-gallery-cls" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
                         </div>
@@ -775,7 +775,7 @@ $floodP=[
 <!-- ======= Footer ======= -->
 <footer id="footer">
     <div class="container">
-        <div class="copyright">
+        <div style="display: none" class="copyright">
 
             &copy; 2023 by Güneyi Vural
             <br>
@@ -808,7 +808,7 @@ $floodP=[
 <!-- Template Main JS File -->
 <script src="assets/js/jquery-3.5.0.js"></script>
 <script src="assets/js/main.js"></script>
-<script src="assets/js/mise.js"></script>
+<script src="assets/js/mise.v01.js"></script>
 
 </body>
 
