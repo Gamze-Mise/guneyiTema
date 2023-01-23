@@ -15,16 +15,39 @@ $('#modalImageFlood').on('hidden.bs.modal', function (e) {
 
 var width = $(window).width();
 if (width >= 1199) {
+    $("#main").addClass('pl50');
+    document.getElementById('main').style.paddingLeft='50px!important';
     $("#StrMain").removeClass('ml-100');
-    $("#StrMain").addClass('ml400').removeClass('ml-50');
+    $("#StrMain").addClass('ml400').removeClass('ml50');
 }else if(width>700){
-    $("#StrMain").removeClass('ml-50');
-    $("#StrMain").removeClass('ml-400').addClass('ml100');
+    $("#main").removeClass('pl50');
+    $("#StrMain").removeClass('ml50');
+    $("#StrMain").removeClass('ml400').addClass('ml100');
 }else{
-    $("#StrMain").removeClass('ml-100');
-    $("#StrMain").removeClass('ml-400').addClass('ml-50');
+    $("#main").removeClass('pl50');
+    $("#StrMain").removeClass('ml100');
+    $("#StrMain").removeClass('ml400').addClass('ml50');
     document.getElementById('StrMain').style.marginLeft='20px!important';
 }
+$(document).ready(function(){
+    $(window).on('resize', function(){
+        var winWidth = $(this).width();
+        if (winWidth >= 1199) {
+            $("#main").addClass('pl50');
+            $("#StrMain").removeClass('ml-100');
+            $("#StrMain").addClass('ml400').removeClass('ml50');
+        }else if(winWidth>700){
+            $("#main").removeClass('pl50');
+            $("#StrMain").removeClass('ml50');
+            $("#StrMain").removeClass('ml400').addClass('ml100');
+        }else{
+            $("#main").removeClass('pl50');
+            $("#StrMain").removeClass('ml100');
+            $("#StrMain").removeClass('ml400').addClass('ml50');
+            document.getElementById('StrMain').style.marginLeft='20px!important';
+        }
+    });
+})
 function ReadMore(number){
     var HtmlStr="";
     if (number==1){

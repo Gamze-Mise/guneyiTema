@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Güneyi Vural</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta content="guneyivural" name="description">
+    <meta content="Güneyi Vural, Güneyi, Vural, Geographeri, Guneyivural, güneyivural, guneyi" name="keywords">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
@@ -75,6 +75,9 @@
     .ml50{
         margin-left: 20px!important;
     }
+    .pl50{
+       padding-left: 50px!important;
+    }
 </style>
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex flex-column justify-content-center ">
@@ -85,7 +88,7 @@
     </div>
 </section><!-- End Hero -->
 
-<main id="main" style="background-color:f0f0f0; ">
+<main id="main" style="background-color: #f0f0f0; ">
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -314,7 +317,7 @@
                        <p>Geography Teacher </p>
                    </div>
                    <div class="resume-item">
-                       <h4>Ali Rıza Özderici High School in Istanbul</h4>
+                       <h4>Ali Rıza Ozderici High School in Istanbul</h4>
                        <h5>2013</h5>
                        <p>Geography Teacher </p>
                    </div>
@@ -323,12 +326,12 @@
                 <div class="col-lg-6" data-aos="fade-up">
                     <h3 class="resume-title">&nbsp; </h3>
                     <div class="resume-item">
-                        <h4>Eyüp High School in Istanbul</h4>
+                        <h4>Eyup High School in Istanbul</h4>
                         <h5>2011</h5>
                         <p>Geography Teacher </p>
                     </div>
                     <div class="resume-item">
-                        <h4>Archelogical Excavation in Niğde (Tepecik-Çiftlik) </h4>
+                        <h4>Archelogical Excavation in Nigde (Tepecik-Çiftlik) </h4>
                         <h5>2011</h5>
                         <p>Archeologist </p>
                     </div>
@@ -469,6 +472,8 @@
                         <li data-filter="*"  class="filter-active">All</li>
                         <li data-filter=".filter-flood-project" >Flood-Project</li>
                         <li data-filter=".filter-excavation">Excavation</li>
+                        <li data-filter=".filter-robert">Robert Collage </li>
+                        <li data-filter=".filter-coastal">Coastal Geomorphology</li>
 
                     </ul>
                 </div>
@@ -488,7 +493,7 @@ $floodP=[
                 <!--Flood Project Begin-->
                 <div   onclick="FullScreenImg('1','flood-project')" class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/flood-project/1.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/1.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto"  style="padding-left: 10px;">Big trees debris shows Power of Tunca river during flooding / Edirne Northwest
                                 Turkey</p>
@@ -497,7 +502,7 @@ $floodP=[
                 </div>
                 <div   onclick="FullScreenImg('2','flood-project')" class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/flood-project/2.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/2.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;" >General View of Tunca river which is sometimes so close to villages</p>
                         </div>
@@ -505,7 +510,7 @@ $floodP=[
                 </div>
                 <div   onclick="FullScreenImg('3','flood-project')"  class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/flood-project/3.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/3.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Interviewing with local people.</p>
                         </div>
@@ -513,7 +518,7 @@ $floodP=[
                 </div>
                 <div   onclick="FullScreenImg('4','flood-project')"  class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/flood-project/4.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/flood-project/4.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">View after flood</p>
                         </div>
@@ -523,7 +528,7 @@ $floodP=[
                 <!--Excvation Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/1.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/1.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -532,7 +537,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/2.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/2.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -541,7 +546,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/3.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/3.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -550,7 +555,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/4.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/4.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -559,7 +564,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/5.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/5.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -568,7 +573,7 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/6.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/6.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
@@ -577,13 +582,81 @@ $floodP=[
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/excavation/7.jpeg" class="img-fluid" alt="">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/excavation/7.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
                         </div>
                     </div>
                 </div>
                 <!--Excvation End-->
+                <!--Robert Begin-->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
+                    <div class="portfolio-wrap">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/1.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
+                    <div class="portfolio-wrap">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/2.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
+                    <div class="portfolio-wrap">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/3.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
+                    <div class="portfolio-wrap">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/4.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
+                    <div class="portfolio-wrap">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/robert/5.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                        </div>
+                    </div>
+                </div>
+                <!--Robert End-->
+                <!--Coastal Begin-->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
+                    <div class="portfolio-wrap">
+                        <img style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
+                    <div class="portfolio-wrap">
+                        <img  style=" height: 234px; width: 400px;  object-fit: cover;"  src="assets/img/coastal/2.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
+                    <div class="portfolio-wrap">
+                        <img style=" height: 234px; width: 400px;  object-fit: cover;"   src="assets/img/coastal/3.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-links">
+                            <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
+                        </div>
+                    </div>
+                </div>
+                <!--Coastal End-->
             </div>
 
         </div>
