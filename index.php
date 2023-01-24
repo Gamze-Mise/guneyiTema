@@ -6,8 +6,15 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Güneyi Vural</title>
-    <meta content="guneyivural" name="description">
-    <meta content="Güneyi Vural, Güneyi, Vural, Geographeri, Guneyivural, güneyivural, guneyi" name="keywords">
+    <meta content="Güneyi Vural.
+        Currently I am working as a geography teacher at Robbert College in Istanbul.
+        I believe in lifelong learning.
+        My most prominent ideal is to revive the idea of learning in my students.
+        I think that the most significant problems nowadays are climate change.
+        For this reason, I usually focus on solving such issues with my students in my classes.
+        My main goal is to establish an understandig of sustainability in terms of environment as a priority,
+        no matter what my students do in the future." name="description">
+    <meta content="Güneyi Vural, Güneyi, Vural, Geography, Guneyivural, güneyivural, guneyi" name="keywords">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
@@ -63,7 +70,7 @@
 <style>
     .img-gallery-cls {
         height: 234px;
-        width: 400px;
+        width: 510px;
         object-fit: cover;
     }
     .ml400{
@@ -76,14 +83,14 @@
         margin-left: 20px!important;
     }
     .pl50{
-       padding-left: 30px!important;
+        padding-left: 30px!important;
     }
 </style>
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex flex-column justify-content-center ">
     <div class="hero-container " style="margin-left: 30px;" id="StrMain" data-aos="fade-in">
         <h1 >Güneyi Vural</h1>
-       <p class="mb-0" > Geography Teacher </p>
+        <p class="mb-0" > Geography Teacher </p>
         <p class="my-0" >at Robert College</p>
     </div>
 </section><!-- End Hero -->
@@ -133,7 +140,7 @@
 
                     </div>
                     <p>
-                       </p>
+                    </p>
                 </div>
             </div>
 
@@ -303,26 +310,26 @@
             </div>
             <br>
             <div class="row">
-               <div class="col-lg-6" data-aos="fade-up">
-                   <h3 class="resume-title" style="color: #1f5297">Professional Experience</h3>
+                <div class="col-lg-6" data-aos="fade-up">
+                    <h3 class="resume-title" style="color: #1f5297">Professional Experience</h3>
 
-                   <div class="resume-item">
-                       <h4>Robbert College</h4>
-                       <h5>2021 - Present</h5>
-                       <p>Geography Teacher </p>
-                   </div>
-                   <div class="resume-item">
-                       <h4>Eyup municipality in Istanbul</h4>
-                       <h5>2017 - 2020</h5>
-                       <p>Geography Teacher </p>
-                   </div>
-                   <div class="resume-item">
-                       <h4>Ali Rıza Ozderici High School in Istanbul</h4>
-                       <h5>2013</h5>
-                       <p>Geography Teacher </p>
-                   </div>
+                    <div class="resume-item">
+                        <h4>Robbert College</h4>
+                        <h5>2021 - Present</h5>
+                        <p>Geography Teacher </p>
+                    </div>
+                    <div class="resume-item">
+                        <h4>Eyup municipality in Istanbul</h4>
+                        <h5>2017 - 2020</h5>
+                        <p>Geography Teacher </p>
+                    </div>
+                    <div class="resume-item">
+                        <h4>Ali Rıza Ozderici High School in Istanbul</h4>
+                        <h5>2013</h5>
+                        <p>Geography Teacher </p>
+                    </div>
 
-               </div>
+                </div>
                 <div class="col-lg-6" data-aos="fade-up">
                     <h3 class="resume-title">&nbsp; </h3>
                     <div class="resume-item">
@@ -402,18 +409,18 @@
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-
+            <!-- comferans paper begin -->
             <div class="section-title">
                 <h2>Publications</h2>
                 <p style="font-size: large ; color:     #173b6c;"><b>Conference Papers</b></p>
             </div>
 
             <div class="row">
-               <p style="text-align:justify">
-                   Gönençgil, B., <b>Vural, G.</b> (2016). <a target="_blank" href="http://tucaum.ankara.edu.tr/wp-content/uploads/sites/280/2016/12/Int_semp_acilis2.pdf">Çevre tarihi açısından küçük buzul çağı ve sosyal etkileri</a>
-                   <b>(In terms of environmental history little ice age and its social effects)</b>
-                   International Geography Symposium 13-14 October 2016, Ankara
-               </p>
+                <p style="text-align:justify">
+                    Gönençgil, B., <b>Vural, G.</b> (2016). <a target="_blank" href="http://tucaum.ankara.edu.tr/wp-content/uploads/sites/280/2016/12/Int_semp_acilis2.pdf">Çevre tarihi açısından küçük buzul çağı ve sosyal etkileri</a>
+                    <b>(In terms of environmental history little ice age and its social effects)</b>
+                    International Geography Symposium 13-14 October 2016, Ankara
+                </p>
                 <hr>
                 <p style="text-align:justify">
                     Mutlu A., <b>Vural, G.</b>., Aydın Ö., Güney B., Hamamcı S, M., Aya A., Sur N., Uluğtekin N., Balçık F, B. (2017).
@@ -429,6 +436,26 @@
                     Euroasian GIS 2018 Congress, 04-07 September 2018, Baku, Azerbaijan.
                     (Oral Presentation-Published Abstract)
                 </p>
+                <!-- comferans paper end -->
+
+                <!-- article begin -->
+                <div class="section-title mt-5">
+                    <p style="font-size: large ; color:     #173b6c;"><b>Article</b></p>
+
+                </div>
+                <div class="mb-3">
+                    <h5 style="font-size: medium"><b>Environmental Awareness Through Geography Education </b></h5>
+                    <div>
+                        <p>
+                            You can read my article named Environmental Awareness Through Geography Education <a target="_blank" href="https://www.flipsnack.com/robertcollege/rc-journal-of-environmental-education-1-spring-2022/full-view.html"> in this journal.</a>
+                        </p>
+                    </div>
+
+                </div>
+
+                <!-- article end -->
+
+                <!-- thesis begin -->
                 <div class="section-title mt-5">
                     <p style="font-size: large ; color:     #173b6c;"><b>Theses Summaries</b></p>
 
@@ -454,6 +481,7 @@
                     </div>
 
                 </div>
+                <!-- thesis end -->
             </div>
 
         </div>
@@ -472,22 +500,22 @@
                         <li data-filter="*"  class="filter-active">All</li>
                         <li data-filter=".filter-flood-project" >Flood-Project</li>
                         <li data-filter=".filter-excavation">Excavation</li>
-                        <li data-filter=".filter-robert">Robert Collage </li>
+                        <li data-filter=".filter-robert">Robert College </li>
                         <li data-filter=".filter-coastal">Coastal Geomorphology</li>
 
                     </ul>
                 </div>
             </div>
-<?php
-$floodP=[
-        "0",
-        "Big trees debris shows Power of Tunca river during flooding / Edirne Northwest Turkey",
-        "General View of Tunca river which is sometimes so close to villages",
-        "Interviewing with local people.",
-        "View after flood"
-];
+            <?php
+            $floodP=[
+                "0",
+                "Big trees debris shows Power of Tunca river during flooding / Edirne Northwest Turkey",
+                "General View of Tunca river which is sometimes so close to villages",
+                "Interviewing with local people.",
+                "View after flood"
+            ];
 
-?>
+            ?>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
                 <!--Flood Project Begin-->
@@ -589,6 +617,7 @@ $floodP=[
                     </div>
                 </div>
                 <!--Excvation End-->
+
                 <!--Robert Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
                     <div class="portfolio-wrap">
@@ -631,10 +660,11 @@ $floodP=[
                     </div>
                 </div>
                 <!--Robert End-->
+
                 <!--Coastal Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
                     <div class="portfolio-wrap">
-                        <img style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        <img style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1.jpeg" class="img-fluid img-gallery-cls w-100 " alt="">
                         <div class="portfolio-links">
                             <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
                         </div>
@@ -660,7 +690,8 @@ $floodP=[
             </div>
 
         </div>
-    </section><!-- End Portfolio Section -->
+    </section>
+    <!-- End Portfolio Section -->
 
 
 
@@ -688,47 +719,40 @@ $floodP=[
                             <h4>Email:</h4>
                             <p>guneyivurall@gmail.com</p>
                         </div>
-                        <!--
-                        <div class="phone">
-                            <i class="bi bi-phone"></i>
-                            <h4>Call:</h4>
-                            <p>+1 5589 55488 55s</p>
-                        </div>
-                        -->
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d192226.42688498835!2d28.733310949950674!3d41.16643319147351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab264ecd61265%3A0x9b084a042b7d4607!2zRXnDvHBzdWx0YW4vxLBzdGFuYnVs!5e0!3m2!1sen!2str!4v1674162868157!5m2!1sen!2str"frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen"></iframe>
                     </div>
 
                 </div>
-<!--
-                <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                        <div class="row">
-                            <div class="form-group col-md-6">
-                                <label for="name">Your Name</label>
-                                <input type="text" name="name" class="form-control" id="name" required>
-                            </div>
-                            <div class="form-group col-md-6">
-                                <label for="name">Your Email</label>
-                                <input type="email" class="form-control" name="email" id="email" required>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label for="name">Subject</label>
-                            <input type="text" class="form-control" name="subject" id="subject" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="name">Message</label>
-                            <textarea class="form-control" name="message" rows="10" required></textarea>
-                        </div>
-                        <div class="my-3">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
-                        </div>
-                        <div class="text-center"><button type="submit">Send Message</button></div>
-                    </form>
-                </div>
--->
+                <!--
+                                <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+                                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                                        <div class="row">
+                                            <div class="form-group col-md-6">
+                                                <label for="name">Your Name</label>
+                                                <input type="text" name="name" class="form-control" id="name" required>
+                                            </div>
+                                            <div class="form-group col-md-6">
+                                                <label for="name">Your Email</label>
+                                                <input type="email" class="form-control" name="email" id="email" required>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="name">Subject</label>
+                                            <input type="text" class="form-control" name="subject" id="subject" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="name">Message</label>
+                                            <textarea class="form-control" name="message" rows="10" required></textarea>
+                                        </div>
+                                        <div class="my-3">
+                                            <div class="loading">Loading</div>
+                                            <div class="error-message"></div>
+                                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                                        </div>
+                                        <div class="text-center"><button type="submit">Send Message</button></div>
+                                    </form>
+                                </div>
+                -->
             </div>
 
         </div>
@@ -737,35 +761,35 @@ $floodP=[
 </main><!-- End #main -->
 <div  class="modal"  id="modalImageFlood"  tabindex="-1">
     <div class="modal-dialog modal-xl">
-    <div class="modal-content">
+        <div class="modal-content">
 
-        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-            <div style="display: none;" class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-                <?php for ($i = 1; $i <= 4; $i++) { ?>
-                    <div class="carousel-item" id="carousel-item<?php echo $i;?>" >
-                        <img src="assets/img/flood-project/<?php echo $i;?>.jpeg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <p style="background-color: rgba(0, 0, 0, 0.5)" id="id-careousel-p<?php echo $i;?>"> <?php echo $floodP[$i]; ?></p>
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                <div style="display: none;" class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                    <?php for ($i = 1; $i <= 4; $i++) { ?>
+                        <div class="carousel-item" id="carousel-item<?php echo $i;?>" >
+                            <img src="assets/img/flood-project/<?php echo $i;?>.jpeg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <p style="background-color: rgba(0, 0, 0, 0.5)" id="id-careousel-p<?php echo $i;?>"> <?php echo $floodP[$i]; ?></p>
+                            </div>
                         </div>
-                    </div>
-                <?php } ?>
+                    <?php } ?>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
         </div>
     </div>
-  </div>
 </div>
 
 
@@ -787,7 +811,7 @@ $floodP=[
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-           <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>-->
+            <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>-->
         </div>
     </div>
 </footer><!-- End  Footer -->
@@ -809,7 +833,15 @@ $floodP=[
 <script src="assets/js/jquery-3.5.0.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/mise.v01.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6SW00LS6XG"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'G-6SW00LS6XG');
+</script>
 </body>
 
 </html>

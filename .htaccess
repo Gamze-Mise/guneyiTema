@@ -1,5 +1,3 @@
-#modem gelen veri burada anlamlandirilacak
-#modemden gelen veriyi yönlendiren alan ve yazan kod
 RewriteEngine On
 DirectoryIndex calistir.php
 RewriteBase /guneyivural/
