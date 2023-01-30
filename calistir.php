@@ -20,5 +20,3 @@ if(count($linkDizi)==1 || count($linkDizi)==0){
 }
 header("Location: ".PAGE_NAME);
 exit();
-include "error.php";
-exit();

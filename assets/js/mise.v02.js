@@ -1,14 +1,5 @@
 var lightbox = new SimpleLightbox('.gallery a', { /* options */ });
 
-
-
-
-$('#modalImageFlood').on('hidden.bs.modal', function (e) {
-    $('header').show();
-    $('footer').show();
-});
-
-
 var width = $(window).width();
 if (width >= 1199) {
     $("#main").addClass('pl50');

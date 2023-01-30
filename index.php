@@ -7,7 +7,7 @@
 
     <title>Güneyi Vural</title>
     <meta content="Güneyi Vural.
-        Currently I am working as a geography teacher at Robbert College in Istanbul.
+        Currently I am working as a geography teacher at a Robert College in Istanbul.
         I believe in lifelong learning.
         My most prominent ideal is to revive the idea of learning in my students.
         I think that the most significant problems nowadays are climate change.
@@ -29,6 +29,7 @@
     <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/simple-lightbox.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
@@ -47,7 +48,7 @@
 <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
 <!-- ======= Header ======= -->
-<header id="header">
+<header style="z-index: 50!important;" id="header">
     <div class="d-flex flex-column">
 
         <div class="profile">
@@ -88,7 +89,7 @@
 </style>
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex flex-column justify-content-center ">
-    <div class="hero-container " style="margin-left: 30px;" id="StrMain" data-aos="fade-in">
+    <div class="hero-container ml400 " style="margin-left: 30px;" id="StrMain" data-aos="fade-in">
         <h1 >Güneyi Vural</h1>
         <p class="mb-0" > Geography Teacher </p>
         <p class="my-0" >at Robert College</p>
@@ -104,7 +105,7 @@
             <div class="section-title">
                 <h2>About</h2>
                 <p>
-                    Currently I am working as a geography teacher at Robbert College in Istanbul.
+                    Currently I am working as a geography teacher at <a target="_blank"  href="https://www.youtube.com/watch?v=d3ygDJ_ckkA">Robert College</a> in Istanbul.
                     I believe in lifelong learning. My most prominent ideal is to revive the idea of learning in my students. I think that the most significant problems nowadays are climate change. For this reason, I usually focus on solving such issues with my students in my classes.</p>
             </div>
 
@@ -129,7 +130,7 @@
                                 <li><i class="bi bi-chevron-right"></i>
                                     <strong>Linkedin:</strong>
                                     <span>
-                                        <a style="color: #173b6c;text-decoration:underline;" target="_blank"  href="https://tr.linkedin.com/in/g%C3%BCneyi-vural-b373b9157"   class="linkedin">  <b>Güneyi Vural</b>   </a>
+                                        <a target="_blank"  href="https://tr.linkedin.com/in/g%C3%BCneyi-vural-b373b9157"   class="linkedin">  Güneyi Vural   </a>
                                     </span>
                                 </li>
                                 <li><i class="bi bi-chevron-right"></i>
@@ -437,26 +438,28 @@
                     (Oral Presentation-Published Abstract)
                 </p>
                 <!-- comferans paper end -->
-
+                <hr style="background-color:black">
                 <!-- article begin -->
-                <div class="section-title mt-5">
-                    <p style="font-size: large ; color:     #173b6c;"><b>Article</b></p>
+                <div class="section-title mt-3">
+                    <p style="font-size: large ; color:     #173b6c;"><b>Journal</b></p>
 
                 </div>
-                <div class="mb-3">
-                    <h5 style="font-size: medium"><b>Environmental Awareness Through Geography Education </b></h5>
-                    <div>
-                        <p>
-                            You can read my article named Environmental Awareness Through Geography Education <a target="_blank" href="https://www.flipsnack.com/robertcollege/rc-journal-of-environmental-education-1-spring-2022/full-view.html"> in this journal.</a>
-                        </p>
-                    </div>
+                <p style="text-align:justify;">
+                    You can read my essay titled <em>Environmental Awareness Through Geography Education </em>on page 8 of this journal by clicking below.
+                </p>
+                <a target="_blank" class="col-4 col-xl-2 col-xxl-2 col-lg-2 col-md-2 col-sm-4" href="https://www.flipsnack.com/robertcollege/rc-journal-of-environmental-education-1-spring-2022/full-view.html">
+                    <img style="width: 100%; object-fit: contain display: inline-block"  src="assets/img/journal/journal.jpg" alt="">
+                </a>
+                <div class="col-8 col-xl-10 col-xxl-10 col-lg-10 col-md-10 col-sm-8 m-auto">
 
                 </div>
+
+
 
                 <!-- article end -->
-
+                <hr style="background-color:black; " class="mt-3">
                 <!-- thesis begin -->
-                <div class="section-title mt-5">
+                <div class="section-title mt-3">
                     <p style="font-size: large ; color:     #173b6c;"><b>Theses Summaries</b></p>
 
                 </div>
@@ -502,117 +505,131 @@
                         <li data-filter=".filter-excavation">Excavation</li>
                         <li data-filter=".filter-robert">Robert College </li>
                         <li data-filter=".filter-coastal">Coastal Geomorphology</li>
+                        <li data-filter=".filter-materials">Student Materials</li>
+                        <li data-filter=".filter-usa">USA Times</li>
 
                     </ul>
                 </div>
             </div>
-            <?php
-            $floodP=[
-                "0",
-                "Big trees debris shows Power of Tunca river during flooding / Edirne Northwest Turkey",
-                "General View of Tunca river which is sometimes so close to villages",
-                "Interviewing with local people.",
-                "View after flood"
-            ];
 
-            ?>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
                 <!--Flood Project Begin-->
-                <div   onclick="FullScreenImg('1','flood-project')" class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/flood-project/1.jpeg" class="img-fluid img-gallery-cls " alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
+                    <div class="gallery">
+                        <a href="assets/img/flood-project/1.jpeg">
+                            <img src="assets/img/flood-project/1.jpeg" title="Big trees debris shows Power of Tunca river during flooding / Edirne Northwest Turkey" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto"  style="padding-left: 10px;">Big trees debris shows Power of Tunca river during flooding / Edirne Northwest
-                                Turkey</p>
+                            <p style="font-size: small" class="m-auto" >Edirne Northwest Turkey</p>
                         </div>
                     </div>
                 </div>
-                <div   onclick="FullScreenImg('2','flood-project')" class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/flood-project/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
+                    <div class="gallery">
+                        <a href="assets/img/flood-project/2.jpeg">
+                            <img title="General View of Tunca river which is sometimes so close to villages"   src="assets/img/flood-project/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;" >General View of Tunca river which is sometimes so close to villages</p>
+                           <p style="font-size:small;" class="m-auto" >General View of Tunca river</p>
                         </div>
                     </div>
                 </div>
-                <div   onclick="FullScreenImg('3','flood-project')"  class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/flood-project/3.jpeg" class="img-fluid img-gallery-cls " alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
+                    <div class="gallery">
+                        <a href="assets/img/flood-project/3.jpeg">
+                            <img src="assets/img/flood-project/3.jpeg"  title="Interviewing with local people." class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Interviewing with local people.</p>
+                           <p style="font-size:small;" class="m-auto">Interviewing with local people.</p>
                         </div>
                     </div>
                 </div>
-                <div   onclick="FullScreenImg('4','flood-project')"  class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/flood-project/4.jpeg" class="img-fluid img-gallery-cls " alt="">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-flood-project">
+                    <div class="gallery">
+                        <a href="assets/img/flood-project/4.jpeg">
+                            <img src="assets/img/flood-project/4.jpeg" title="View after flood" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">View after flood</p>
+                           <p style="font-size:small;" class="m-auto">View after flood</p>
                         </div>
                     </div>
                 </div>
                 <!--Flood Project End-->
                 <!--Excvation Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/1.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/1.jpeg">
+                            <img src="assets/img/excavation/1.jpeg" title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/2.jpeg">
+                            <img title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey" src="assets/img/excavation/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/3.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/3.jpeg">
+                            <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/3.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/4.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/4.jpeg">
+                            <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/4.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/5.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/5.jpeg">
+                            <img title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey" src="assets/img/excavation/5.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/6.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/6.jpeg">
+                            <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/6.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-excavation">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/excavation/7.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/excavation/7.jpeg">
+                            <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/7.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey</p>
+                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -620,42 +637,52 @@
 
                 <!--Robert Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/robert/1.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/robert/1.jpeg">
+                            <img title="Robert College"   src="assets/img/robert/1.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                           <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/robert/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/robert/2.jpeg">
+                            <img title="Robert College"    src="assets/img/robert/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                           <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/robert/3.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/robert/3.jpeg">
+                            <img title="Robert College"    src="assets/img/robert/3.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                           <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/robert/4.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/robert/4.jpeg">
+                            <img  title="Robert College"   src="assets/img/robert/4.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                           <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-robert">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/robert/5.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/robert/5.jpeg">
+                            <img title="Robert College"    src="assets/img/robert/5.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Robert College</p>
+                           <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
@@ -663,30 +690,162 @@
 
                 <!--Coastal Begin-->
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
-                    <div class="portfolio-wrap">
-                        <img style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1.jpeg" class="img-fluid img-gallery-cls w-100 " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/coastal/01.jpeg">
+                            <img title="Coastal Geomorphology" style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1-1.jpeg" class="img-fluid img-gallery-cls w-100 " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
+                           <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/coastal/2.jpeg" class="img-fluid img-gallery-cls " alt="">
+                    <div class="gallery">
+                        <a href="assets/img/coastal/02.jpeg">
+                            <img  title="Coastal Geomorphology"  src="assets/img/coastal/2-1.jpeg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
+                           <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-coastal">
-                    <div class="portfolio-wrap">
-                        <img    src="assets/img/coastal/3.jpeg" class="img-fluid img-gallery-cls" alt="">
+                    <div class="gallery">
+                        <a href="assets/img/coastal/3.jpeg">
+                            <img  title="Coastal Geomorphology"  src="assets/img/coastal/3.jpeg" class="img-fluid img-gallery-cls" alt="">
+                        </a>
                         <div class="portfolio-links">
-                            <p class="m-auto" style="padding-left: 10px;">Coastal Geomorphology</p>
+                           <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
                         </div>
                     </div>
                 </div>
                 <!--Coastal End-->
+
+                <!--Materials Begin-->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-materials">
+                    <div class="gallery">
+                        <a href="assets/img/materials/1.jpg">
+                            <img  title="Orogeny and Mountain Range"  src="assets/img/materials/1.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">Orogeny and Mountain Range</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-materials">
+                    <div class="gallery">
+                        <a href="assets/img/materials/2.jpg">
+                            <img  title="Isohips Curves"  src="assets/img/materials/2.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">Isohips Curves</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-materials">
+                    <div class="gallery">
+                        <a href="assets/img/materials/3.jpg">
+                            <img  title="Population Pyramids" src="assets/img/materials/3.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">Population Pyramids</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-materials">
+                    <div class="gallery">
+                        <a href="assets/img/materials/4.jpg">
+                            <img  title="Winds and Pressures"  src="assets/img/materials/4.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">Winds and Pressures</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-materials">
+                    <div class="gallery">
+                        <a href="assets/img/materials/5.jpg">
+                            <img title="A River Basin, Valleys, A Delta" src="assets/img/materials/5.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">A River Basin, Valleys, A Delta</p>
+                        </div>
+                    </div>
+                </div>
+                <!--Materials End-->
+
+                <!--USA Begin-->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/1-1.jpg">
+                            <img title="University of Kansas / Lawrence"   src="assets/img/usa/1.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">University of Kansas / Lawrence</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/2.jpg">
+                            <img  title="University of Illinois at Urbana-Champaign"  src="assets/img/usa/2.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">University of Illinois at Urbana-Champaign</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/3.jpg">
+                            <img  title="Grand Canyon / Arizona"  src="assets/img/usa/3.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">Grand Canyon / Arizona</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/4.jpg">
+                            <img title="University of New Mexico / Albuquerque" src="assets/img/usa/4.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">University of New Mexico / Albuquerque</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/5.jpg">
+                            <img  title="University of Arizona / Biosphere 2"  src="assets/img/usa/5.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">University of Arizona / Biosphere 2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/6.jpg">
+                            <img  title="Columbia University / New York"  src="assets/img/usa/6.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">Columbia University / New York</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/7.jpg">
+                            <img  title="University of Arizona / Tucson"  src="assets/img/usa/7.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                           <p style="font-size:small;" class="m-auto">University of Arizona / Tucson</p>
+                        </div>
+                    </div>
+                </div>
+                <!--USA End-->
             </div>
 
         </div>
@@ -831,8 +990,9 @@
 
 <!-- Template Main JS File -->
 <script src="assets/js/jquery-3.5.0.js"></script>
+<script src="assets/vendor/glightbox/js/simple-lightbox.js"></script>
 <script src="assets/js/main.js"></script>
-<script src="assets/js/mise.v01.js"></script>
+<script src="assets/js/mise.v02.js"></script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6SW00LS6XG"></script>
 <script>
@@ -841,6 +1001,9 @@
     gtag('js', new Date());
 
     gtag('config', 'G-6SW00LS6XG');
+</script>
+<script>
+
 </script>
 </body>
 
