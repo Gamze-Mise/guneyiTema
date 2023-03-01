@@ -845,6 +845,16 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-usa">
+                    <div class="gallery">
+                        <a href="assets/img/usa/8.jpg">
+                            <img  title="Princeton University / New Jersey"  src="assets/img/usa/8.jpg" class="img-fluid img-gallery-cls " alt="">
+                        </a>
+                        <div class="portfolio-links">
+                            <p style="font-size:small;" class="m-auto">Princeton University / New Jersey  </p>
+                        </div>
+                    </div>
+                </div>
                 <!--USA End-->
             </div>
 
@@ -882,74 +892,13 @@
                     </div>
 
                 </div>
-                <!--
-                                <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                                        <div class="row">
-                                            <div class="form-group col-md-6">
-                                                <label for="name">Your Name</label>
-                                                <input type="text" name="name" class="form-control" id="name" required>
-                                            </div>
-                                            <div class="form-group col-md-6">
-                                                <label for="name">Your Email</label>
-                                                <input type="email" class="form-control" name="email" id="email" required>
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="name">Subject</label>
-                                            <input type="text" class="form-control" name="subject" id="subject" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="name">Message</label>
-                                            <textarea class="form-control" name="message" rows="10" required></textarea>
-                                        </div>
-                                        <div class="my-3">
-                                            <div class="loading">Loading</div>
-                                            <div class="error-message"></div>
-                                            <div class="sent-message">Your message has been sent. Thank you!</div>
-                                        </div>
-                                        <div class="text-center"><button type="submit">Send Message</button></div>
-                                    </form>
-                                </div>
-                -->
             </div>
 
         </div>
     </section><!-- End Contact Section -->
 
 </main><!-- End #main -->
-<div  class="modal"  id="modalImageFlood"  tabindex="-1">
-    <div class="modal-dialog modal-xl">
-        <div class="modal-content">
 
-            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-                <div style="display: none;" class="carousel-indicators">
-                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                </div>
-                <div class="carousel-inner">
-                    <?php for ($i = 1; $i <= 4; $i++) { ?>
-                        <div class="carousel-item" id="carousel-item<?php echo $i;?>" >
-                            <img src="assets/img/flood-project/<?php echo $i;?>.jpeg" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
-                                <p style="background-color: rgba(0, 0, 0, 0.5)" id="id-careousel-p<?php echo $i;?>"> <?php echo $floodP[$i]; ?></p>
-                            </div>
-                        </div>
-                    <?php } ?>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
