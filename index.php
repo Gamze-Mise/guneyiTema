@@ -467,7 +467,7 @@
                     <h5 class="text-center" style="font-size: medium"><b>Visual Analysis For Migration Routes Of Immigrants Who Have Gone To Europe Between 2009 And 2017 Using Gis </b></h5>
                     <div id="DvThesis1">
                         <p style="text-indent:50px; text-align: justify ">Migration means moving from one area to Another permanently or temporarily and it dates back to the ages of early homo sapiens. Although it has different means for different eras, today, the migration phenomenon caused by wars and natural disasters and it flows from undeveloped and developing countries to developed ones. In addition to this, in general, there are some driving factors. First of all are security problems, high crime rates, crops fail especially in rural areas, floodings, poverty, and wars. Another driving factors are good job opportunities, high living standard, good weather conditions, more secure places and low crime rates, political stability, fertile lands, low-risk proportion of natural disasters. ...
-                            <span onclick="ReadMore('1')" style=" opacity: 0.6;">[<em>Read More</em>]</span>
+                            <span onclick="ReadMore('1')" style=" opacity: 0.6;cursor:pointer!important;">[<em>Read More</em>]</span>
                         </p>
                     </div>
 
@@ -479,7 +479,7 @@
                         <p style="text-indent:50px; text-align: justify ">
                             In general terms, Lıttle Ice Age can be defined as a period of between 1300-1850 when the temperature decreased at least 1oC which gave rise to the icrease in the expansion areas of glaciers having an impact in every other ragion in the World at different ranges with sudden climatic oscillation. While this period of time is named as Lıttle Ice Age, it can be wrong to speak of a global era affecting the whole world in the same extend. The impact shows changes according to time and space. Furthermore, the factor making Lıttle Ice Age important is especially the effects it created on different societies. During this period of time, many revolts (Celali Revolts), social events (French Revolution) and wars took place. All these events are relation between these two is tried to be revealed.
                             ...
-                            <span onclick="ReadMore('2')" style=" opacity: 0.6;">[<em>Read More</em>]</span>
+                            <span onclick="ReadMore('2')" style=" opacity: 0.6; cursor:pointer!important">[<em>Read More</em>]</span>
                         </p>
                     </div>
 
