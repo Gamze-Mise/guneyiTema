@@ -15,7 +15,7 @@ foreach($linkDizi as $i=>$lKelime){
 }
 
 if(count($linkDizi)==1 || count($linkDizi)==0){
-    include "index.php";
+    include "indexg.php";
     exit();
 }
 header("Location: ".PAGE_NAME);

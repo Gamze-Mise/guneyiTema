@@ -104,9 +104,17 @@
 
             <div class="section-title">
                 <h2>About</h2>
-                <p>
-                    Currently I am working as a geography teacher at <a target="_blank"  href="https://www.youtube.com/watch?v=d3ygDJ_ckkA">Robert College</a> in Istanbul.
-                    I believe in lifelong learning. My most prominent ideal is to revive the idea of learning in my students. I think that the most significant problems nowadays are climate change. For this reason, I usually focus on solving such issues with my students in my classes.</p>
+                <p class="fst-italic" style="text-align: justify">
+                    “Geography represents travel and expands the field of vision not a little.
+                    It makes us citizens of the world and connects us to the most distant nations.
+                    Without them, we are limited to the city, province, empire in which we live.
+                    Without them, no matter what you have learned, you remain limited and cramped.
+                    Nothing educates and cultivates common sense more than geography.”
+
+                   <p>(quote from Immanuel Kant, 1724-1804)</p>
+
+
+                </p>
             </div>
 
             <div class="row">
@@ -115,12 +123,13 @@
                 </div>
                 <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                     <h3>Geography Teacher</h3>
-                    <p class="fst-italic mt-3">
-                        My main goal is to establish an understandig of sustainability in terms of environment as a priority, no matter what my students do in the future.
+                    <p class="mt-3" style="text-align: justify">
+                        Currently, I am working as a geography teacher at <a target="_blank"  href="https://www.youtube.com/watch?v=d3ygDJ_ckkA">American Robert College</a> of Istanbul. I believe in lifelong learning. My most prominent ideal is to revive the idea of learning in my students. I think that the most significant problems nowadays are climate change. For this reason, I usually focus on solving such issues with my students in my classes.
+                        My main goal is to establish an understanding of sustainability in terms of the environment as a priority, no matter what my students do in the future.
                     </p>
-                    <div class="row mt-5">
+                    <div class="row">
                         <div >
-                            <ul>
+                            <ul >
                                 <li><i class="bi bi-chevron-right"></i>
                                     <strong>Birthday:</strong>   <span>1990</span>
                                 </li>
@@ -148,129 +157,12 @@
         </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Facts Section ======= -->
-    <section style="display: none" id="facts" class="facts">
-        <div class="container">
-
-            <div class="section-title">
-                <h2>Facts</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-            </div>
-
-            <div class="row no-gutters">
-
-                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                    <div class="count-box">
-                        <i class="bi bi-emoji-smile"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p><strong>Happy Clients</strong> consequuntur quae</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
-                    <div class="count-box">
-                        <i class="bi bi-journal-richtext"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                        <p><strong>Projects</strong> adipisci atque cum quia aut</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
-                    <div class="count-box">
-                        <i class="bi bi-headset"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                        <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
-                    <div class="count-box">
-                        <i class="bi bi-people"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-                        <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- End Facts Section -->
-
-    <!-- ======= Skills Section ======= -->
-    <section style="display: none" id="skills" class="skills section-bg">
-        <div class="container">
-
-            <div class="section-title">
-                <h2>Skills</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-            </div>
-
-            <div class="row skills-content">
-
-                <div class="col-lg-6" data-aos="fade-up">
-
-                    <div class="progress">
-                        <span class="skill">HTML <i class="val">100%</i></span>
-                        <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress">
-                        <span class="skill">CSS <i class="val">90%</i></span>
-                        <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress">
-                        <span class="skill">JavaScript <i class="val">75%</i></span>
-                        <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-
-                    <div class="progress">
-                        <span class="skill">PHP <i class="val">80%</i></span>
-                        <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress">
-                        <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-                        <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                    <div class="progress">
-                        <span class="skill">Photoshop <i class="val">55%</i></span>
-                        <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- End Skills Section -->
-
     <!-- ======= Resume Section ======= -->
     <section id="resume" class="resume">
         <div class="container">
-
             <div class="section-title">
                 <h2>Resume</h2>
-                <!--                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>-->
             </div>
-
             <div class="row">
                 <div class="col-lg-6" data-aos="fade-up">
                     <h3 class="resume-title" style="color: #1f5297">Education</h3>
@@ -284,7 +176,6 @@
                         <h4>Certificates in Pedagogy </h4>
                         <h5>2011</h5>
                         <p>Istanbul University</p>
-                        <p><em>Undergraduate B.A</em></p>
                     </div>
                     <div class="resume-item">
                         <h4>Archeology (Double Major)</h4>
@@ -367,10 +258,13 @@
                     <div class="resume-item">
                         <p>Geographic Information Science </p>
                     </div>
+                    <div class="resume-item">
+                        <p>Environmental History </p>
+                    </div>
                 </div>
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="resume-title" style="color: #1f5297">Additional Education & Certificates</h3>
-                    <p>10-19 June 2010 GIS project and certificate of participation «A group of friends of mine and I researched flood and ıts effects on the Tunca River in GIS, and we have a book about what we have studied. Also, this project was supported by TUBITAK (The Scientific and Technological Research Council of Turkey).</p>
+                    <p style="text-align: justify">10-19 June 2010 GIS project and certificate of participation. A group of friends of mine and I researched flood and ıts effects on the Tunca River in GIS, and we have a book about what we have studied. Also, this project was supported by TUBITAK (The Scientific and Technological Research Council of Turkey).</p>
                     <div class="resume-item">
                         <p>Usıng computer(160 hours) </p>
                     </div>
@@ -381,13 +275,19 @@
                         <p>Advanced using office programme(60 hours) </p>
                     </div>
                     <div class="resume-item">
-                        <p>Body Languages (15 hours) </p>
+                        <p>Body Language (15 hours) </p>
                     </div>
                     <div class="resume-item">
                         <p>Certıfıcate of Getting started with GIS ( for ArcGIS 10.0) from ESRİ </p>
                     </div>
                     <div class="resume-item">
                         <p>Turning Data İnto İnformation Using ArcGIS 10.0 from ESRİ </p>
+                    </div>
+                    <div class="resume-item">
+                        <p>ArcGIS Pro: Essential Workflows (24 hours) </p>
+                    </div>
+                    <div class="resume-item">
+                        <p>Introduction to GIS Using ArcGIS (16 hours) </p>
                     </div>
 
                     <!--                    <div class="resume-item">-->
@@ -467,7 +367,7 @@
                     <h5 class="text-center" style="font-size: medium"><b>Visual Analysis For Migration Routes Of Immigrants Who Have Gone To Europe Between 2009 And 2017 Using Gis </b></h5>
                     <div id="DvThesis1">
                         <p style="text-indent:50px; text-align: justify ">Migration means moving from one area to Another permanently or temporarily and it dates back to the ages of early homo sapiens. Although it has different means for different eras, today, the migration phenomenon caused by wars and natural disasters and it flows from undeveloped and developing countries to developed ones. In addition to this, in general, there are some driving factors. First of all are security problems, high crime rates, crops fail especially in rural areas, floodings, poverty, and wars. Another driving factors are good job opportunities, high living standard, good weather conditions, more secure places and low crime rates, political stability, fertile lands, low-risk proportion of natural disasters. ...
-                            <span onclick="ReadMore('1')" style=" opacity: 0.6;cursor:pointer!important;">[<em>Read More</em>]</span>
+                            <span onclick="ReadMore('1')" style=" opacity: 0.6; cursor: pointer">[<em>Read More</em>]</span>
                         </p>
                     </div>
 
@@ -479,7 +379,7 @@
                         <p style="text-indent:50px; text-align: justify ">
                             In general terms, Lıttle Ice Age can be defined as a period of between 1300-1850 when the temperature decreased at least 1oC which gave rise to the icrease in the expansion areas of glaciers having an impact in every other ragion in the World at different ranges with sudden climatic oscillation. While this period of time is named as Lıttle Ice Age, it can be wrong to speak of a global era affecting the whole world in the same extend. The impact shows changes according to time and space. Furthermore, the factor making Lıttle Ice Age important is especially the effects it created on different societies. During this period of time, many revolts (Celali Revolts), social events (French Revolution) and wars took place. All these events are relation between these two is tried to be revealed.
                             ...
-                            <span onclick="ReadMore('2')" style=" opacity: 0.6; cursor:pointer!important">[<em>Read More</em>]</span>
+                            <span onclick="ReadMore('2')" style=" opacity: 0.6; cursor: pointer">[<em>Read More</em>]</span>
                         </p>
                     </div>
 
@@ -531,7 +431,7 @@
                             <img title="General View of Tunca river which is sometimes so close to villages"   src="assets/img/flood-project/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto" >General View of Tunca river</p>
+                            <p style="font-size:small;" class="m-auto" >General View of Tunca river</p>
                         </div>
                     </div>
                 </div>
@@ -541,7 +441,7 @@
                             <img src="assets/img/flood-project/3.jpeg"  title="Interviewing with local people." class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Interviewing with local people.</p>
+                            <p style="font-size:small;" class="m-auto">Interviewing with local people.</p>
                         </div>
                     </div>
                 </div>
@@ -551,7 +451,7 @@
                             <img src="assets/img/flood-project/4.jpeg" title="View after flood" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">View after flood</p>
+                            <p style="font-size:small;" class="m-auto">View after flood</p>
                         </div>
                     </div>
                 </div>
@@ -563,7 +463,7 @@
                             <img src="assets/img/excavation/1.jpeg" title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -574,7 +474,7 @@
                             <img title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey" src="assets/img/excavation/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -585,7 +485,7 @@
                             <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/3.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -596,7 +496,7 @@
                             <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/4.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -607,7 +507,7 @@
                             <img title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey" src="assets/img/excavation/5.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -618,7 +518,7 @@
                             <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/6.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -629,7 +529,7 @@
                             <img  title="An archaeological excavation in Niğde (Tepecik-Çiftlik) Central Turkey"  src="assets/img/excavation/7.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
+                            <p style="font-size:small;" class="m-auto">An archaeological excavation in Niğde</p>
                         </div>
                     </div>
                 </div>
@@ -642,7 +542,7 @@
                             <img title="Robert College"   src="assets/img/robert/1.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Robert College</p>
+                            <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
@@ -652,7 +552,7 @@
                             <img title="Robert College"    src="assets/img/robert/2.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Robert College</p>
+                            <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
@@ -662,7 +562,7 @@
                             <img title="Robert College"    src="assets/img/robert/3.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Robert College</p>
+                            <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
@@ -672,7 +572,7 @@
                             <img  title="Robert College"   src="assets/img/robert/4.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Robert College</p>
+                            <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
@@ -682,7 +582,7 @@
                             <img title="Robert College"    src="assets/img/robert/5.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Robert College</p>
+                            <p style="font-size:small;" class="m-auto">Robert College</p>
                         </div>
                     </div>
                 </div>
@@ -695,7 +595,7 @@
                             <img title="Coastal Geomorphology" style="height: 234px; width: 400px;  object-fit: cover;" src="assets/img/coastal/1-1.jpeg" class="img-fluid img-gallery-cls w-100 " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
+                            <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
                         </div>
                     </div>
                 </div>
@@ -705,7 +605,7 @@
                             <img  title="Coastal Geomorphology"  src="assets/img/coastal/2-1.jpeg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
+                            <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
                         </div>
                     </div>
                 </div>
@@ -715,7 +615,7 @@
                             <img  title="Coastal Geomorphology"  src="assets/img/coastal/3.jpeg" class="img-fluid img-gallery-cls" alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
+                            <p style="font-size:small;" class="m-auto">Coastal Geomorphology</p>
                         </div>
                     </div>
                 </div>
@@ -728,7 +628,7 @@
                             <img  title="Orogeny and Mountain Range"  src="assets/img/materials/1.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Orogeny and Mountain Range</p>
+                            <p style="font-size:small;" class="m-auto">Orogeny and Mountain Range</p>
                         </div>
                     </div>
                 </div>
@@ -738,7 +638,7 @@
                             <img  title="Isohips Curves"  src="assets/img/materials/2.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Isohips Curves</p>
+                            <p style="font-size:small;" class="m-auto">Isohips Curves</p>
                         </div>
                     </div>
                 </div>
@@ -748,7 +648,7 @@
                             <img  title="Population Pyramids" src="assets/img/materials/3.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Population Pyramids</p>
+                            <p style="font-size:small;" class="m-auto">Population Pyramids</p>
                         </div>
                     </div>
                 </div>
@@ -758,7 +658,7 @@
                             <img  title="Winds and Pressures"  src="assets/img/materials/4.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Winds and Pressures</p>
+                            <p style="font-size:small;" class="m-auto">Winds and Pressures</p>
                         </div>
                     </div>
                 </div>
@@ -768,7 +668,7 @@
                             <img title="A River Basin, Valleys, A Delta" src="assets/img/materials/5.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">A River Basin, Valleys, A Delta</p>
+                            <p style="font-size:small;" class="m-auto">A River Basin, Valleys, A Delta</p>
                         </div>
                     </div>
                 </div>
@@ -781,7 +681,7 @@
                             <img title="University of Kansas / Lawrence"   src="assets/img/usa/1.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">University of Kansas / Lawrence</p>
+                            <p style="font-size:small;" class="m-auto">University of Kansas / Lawrence</p>
                         </div>
                     </div>
                 </div>
@@ -791,7 +691,7 @@
                             <img  title="University of Illinois at Urbana-Champaign"  src="assets/img/usa/2.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">University of Illinois at Urbana-Champaign</p>
+                            <p style="font-size:small;" class="m-auto">University of Illinois at Urbana-Champaign</p>
                         </div>
                     </div>
                 </div>
@@ -801,7 +701,7 @@
                             <img  title="Grand Canyon / Arizona"  src="assets/img/usa/3.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Grand Canyon / Arizona</p>
+                            <p style="font-size:small;" class="m-auto">Grand Canyon / Arizona</p>
                         </div>
                     </div>
                 </div>
@@ -811,7 +711,7 @@
                             <img title="University of New Mexico / Albuquerque" src="assets/img/usa/4.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">University of New Mexico / Albuquerque</p>
+                            <p style="font-size:small;" class="m-auto">University of New Mexico / Albuquerque</p>
                         </div>
                     </div>
                 </div>
@@ -821,7 +721,7 @@
                             <img  title="University of Arizona / Biosphere 2"  src="assets/img/usa/5.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">University of Arizona / Biosphere 2</p>
+                            <p style="font-size:small;" class="m-auto">University of Arizona / Biosphere 2</p>
                         </div>
                     </div>
                 </div>
@@ -831,7 +731,7 @@
                             <img  title="Columbia University / New York"  src="assets/img/usa/6.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">Columbia University / New York</p>
+                            <p style="font-size:small;" class="m-auto">Columbia University / New York</p>
                         </div>
                     </div>
                 </div>
@@ -841,7 +741,7 @@
                             <img  title="University of Arizona / Tucson"  src="assets/img/usa/7.jpg" class="img-fluid img-gallery-cls " alt="">
                         </a>
                         <div class="portfolio-links">
-                           <p style="font-size:small;" class="m-auto">University of Arizona / Tucson</p>
+                            <p style="font-size:small;" class="m-auto">University of Arizona / Tucson</p>
                         </div>
                     </div>
                 </div>
@@ -892,13 +792,74 @@
                     </div>
 
                 </div>
+                <!--
+                                <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+                                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                                        <div class="row">
+                                            <div class="form-group col-md-6">
+                                                <label for="name">Your Name</label>
+                                                <input type="text" name="name" class="form-control" id="name" required>
+                                            </div>
+                                            <div class="form-group col-md-6">
+                                                <label for="name">Your Email</label>
+                                                <input type="email" class="form-control" name="email" id="email" required>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="name">Subject</label>
+                                            <input type="text" class="form-control" name="subject" id="subject" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="name">Message</label>
+                                            <textarea class="form-control" name="message" rows="10" required></textarea>
+                                        </div>
+                                        <div class="my-3">
+                                            <div class="loading">Loading</div>
+                                            <div class="error-message"></div>
+                                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                                        </div>
+                                        <div class="text-center"><button type="submit">Send Message</button></div>
+                                    </form>
+                                </div>
+                -->
             </div>
 
         </div>
     </section><!-- End Contact Section -->
 
 </main><!-- End #main -->
+<div  class="modal"  id="modalImageFlood"  tabindex="-1">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
 
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                <div style="display: none;" class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                    <?php for ($i = 1; $i <= 4; $i++) { ?>
+                        <div class="carousel-item" id="carousel-item<?php echo $i;?>" >
+                            <img src="assets/img/flood-project/<?php echo $i;?>.jpeg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <p style="background-color: rgba(0, 0, 0, 0.5)" id="id-careousel-p<?php echo $i;?>"> <?php echo $floodP[$i]; ?></p>
+                            </div>
+                        </div>
+                    <?php } ?>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
