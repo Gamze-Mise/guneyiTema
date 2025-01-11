@@ -95,8 +95,8 @@
     <section id="hero" class="d-flex flex-column justify-content-center ">
         <div class="hero-container ml400 " style="margin-left: 30px;" id="StrMain" data-aos="fade-in">
             <h1>Güneyi Vural</h1>
-            <p class="mb-0"> Geography Teacher </p>
-            <p class="my-0">at Robert College</p>
+            <p class="mb-0"> Researcher</p>
+            <p class="my-0">at Charles University</p>
         </div>
     </section><!-- End Hero -->
 
@@ -128,17 +128,14 @@
                     <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                         <h3>Geography Teacher</h3>
                         <p class="mt-3" style="text-align: justify">
-                            Currently, I am working as a geography teacher at <a target="_blank" href="https://www.youtube.com/watch?v=d3ygDJ_ckkA">The American Robert College</a> of Istanbul. I believe in lifelong learning. My most prominent ideal is to revive the idea of learning in my students. I think that the most significant problems nowadays are climate change. For this reason, I usually focus on solving such issues with my students in my classes.
-                            My main goal is to establish an understanding of sustainability in terms of the environment as a priority, no matter what my students do in the future.
+                            I previously worked as a geography teacher at <a target="_blank" href="https://www.youtube.com/watch?v=d3ygDJ_ckkA">The American Robert College of Istanbul.</a> My most prominent ideal was to inspire a love of learning in my students. During my time there, I focused on addressing one of the most significant challenges of our time—climate change. My main goal was to instill in my students an understanding of environmental sustainability, ensuring that they would prioritize the environment, no matter what path they chose in the future.
+                            I am now pursuing my Ph.D in Didactics of Geography at the Faculty of Science at Charles University. My dissertation focuses on "Exploring the Potential and Impact of Virtual Reality Technologies on Geography Education." The research aims to examine how integrating virtual reality (VR) can enhance students' understanding and engagement in geography, transforming traditional teaching methods into immersive learning experiences. I am investigating VR's impact on student motivation, performance, and collaboration, as well as its potential to innovate geography education.
                         </p>
                         <div class="row">
                             <div>
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i>
-                                        <strong>Birthday:</strong> <span>1990</span>
-                                    </li>
-                                    <li><i class="bi bi-chevron-right"></i>
-                                        <strong>Email:</strong> <span>guneyivurall@gmail.com</span>
+                                        <strong>Email:</strong> <span>vuralg@natur.cuni.cz</span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i>
                                         <strong>Linkedin:</strong>
@@ -147,7 +144,7 @@
                                         </span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i>
-                                        <strong>City:</strong> <span>Istanbul, Turkey</span>
+                                        <strong>City:</strong> <span>Prague, Czechia</span>
                                     </li>
                                 </ul>
                             </div>
@@ -171,12 +168,12 @@
                     <div class="col-lg-6" data-aos="fade-up">
                         <h3 class="resume-title" style="color: #1f5297">Education</h3>
                         <h4 class="resume-title" style="color: #1f5297; font-size:large">Master's Degrees</h4>
-                        
+
                         <div class="resume-item">
                             <h4>Geographic Information Technologies</h4>
                             <h5> 2018</h5>
                             <p>Istanbul Technical University</p>
-                           
+
                         </div>
                         <div class="resume-item">
                             <h4>Geography</h4>
@@ -185,7 +182,7 @@
                         </div>
 
                         <h4 class="resume-title" style="color: #1f5297; font-size:large">Bachelor's Degrees</h4>
-                        
+
                         <div class="resume-item">
                             <h4>Archeology (Double Major)</h4>
                             <h5> 2012</h5>
@@ -194,7 +191,7 @@
 
                         <div class="resume-item">
                             <h4>Certificates in Pedagogy</h4>
-                            <h5>2011</h5> 
+                            <h5>2011</h5>
                             <p>Istanbul University</p>
                         </div>
                         <div class="resume-item">
@@ -207,12 +204,12 @@
                     <div class="col-lg-6" data-aos="fade-up">
                         <h3 class="resume-title" style="color: #1f5297">Professional Experience</h3>
                         <h4 class="resume-title" style="color: #1f5297; font-size:large">
-                        &nbsp;
+                            &nbsp;
                         </h4>
-                        
+
                         <div class="resume-item">
                             <h4>American Robert College</h4>
-                            <h5>2021 - Present</h5>
+                            <h5>2021 - 2024</h5>
                             <p>Geography Teacher </p>
                         </div>
                         <div class="resume-item">
@@ -683,8 +680,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item filter-materials">
                         <div class="gallery">
-                            <a href="assets/img/materials/5.jpg">
-                                <img title="A River Basin, Valleys, A Delta" src="assets/img/materials/5.jpg" class="img-fluid img-gallery-cls " alt="">
+                            <a href="assets/img/materials/5-2.jpg">
+                                <img title="A River Basin, Valleys, A Delta" src="assets/img/materials/5-2.jpg" class="img-fluid img-gallery-cls " alt="">
                             </a>
                             <div class="portfolio-links">
                                 <p style="font-size:small;" class="m-auto">A River Basin, Valleys, A Delta</p>
@@ -799,15 +796,15 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>Eyüp Istanbul</p>
+                                <p>Prague, Czechia</p>
                             </div>
 
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>guneyivurall@gmail.com</p>
+                                <p>vuralg@natur.cuni.cz</p>
                             </div>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d192226.42688498835!2d28.733310949950674!3d41.16643319147351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab264ecd61265%3A0x9b084a042b7d4607!2zRXnDvHBzdWx0YW4vxLBzdGFuYnVs!5e0!3m2!1sen!2str!4v1674162868157!5m2!1sen!2str" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.9558208041485!2d14.420913976183199!3d50.087114013458695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b94bf8b0c2a57%3A0xfac337bafd6c467c!2sCharles%20University!5e0!3m2!1sen!2str!4v1736590569762!5m2!1sen!2str" style="border:0;width: 100%; height: 290px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
 
                     </div>
