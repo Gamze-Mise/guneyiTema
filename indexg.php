@@ -144,7 +144,7 @@
                                         </span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i>
-                                        <strong>City:</strong> <span>Prague, Czechia</span>
+                                        <a href="https://www.phdingeography.com/about-us/pgs-students/gueneyi/" target="_blank">Link to My Profile on University Website</a>
                                     </li>
                                 </ul>
                             </div>
@@ -881,7 +881,7 @@
     <!-- Template Main JS File -->
     <script src="assets/js/jquery-3.5.0.js"></script>
     <script src="assets/vendor/glightbox/js/simple-lightbox.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/main.v02.js"></script>
     <script src="assets/js/mise.v02.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6SW00LS6XG"></script>
